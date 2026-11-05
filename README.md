@@ -1,13 +1,13 @@
 # ToneForgeAI - Complete Documentation
 
 > **AI-Powered Email Transformation Platform**  
-> Transform casual, informal emails into professional correspondence with advanced AI models
+> Transform casual, informal emails into professional emails correspondence with advanced AI models
 
 ---
 
 ## 📋 Table of Contents
 
-1. [Overview](#overview)
+1. [Overvew](#overview)
 2. [Architecture](#architecture)
 3. [Tech Stack](#tech-stack)
 4. [Project Structure](#project-structure)
